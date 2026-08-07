@@ -6,14 +6,12 @@
 
 `██████░░░░░░░░░░░░░░` **32%**  (58/179 mavzu)
 
-- ⭐ Jami ball: **75634**
-- 📤 GitHubga yuborilgan topshiriqlar: **1103**
+- ⭐ Jami ball: **75639**
+- 📤 GitHubga yuborilgan topshiriqlar: **1104**
 
 ## 🎯 Qaysi mavzuga yetdingiz
 
-**MODUL 4 — Ma'lumot Tuzilmalari** → **🛠 Loyiha: Konsol jadval — ma'lumotni jadval ko'rinishida**
-
-➡️ Keyingi mavzu: *Mustahkamlash 🔁 — barcha tuzilmalar bo'yicha mashqlar*
+**MODUL 4 — Ma'lumot Tuzilmalari** → **Mustahkamlash 🔁 — barcha tuzilmalar bo'yicha mashqlar**
 
 <details open>
 <summary>Shu moduldagi mavzular</summary>
@@ -34,8 +32,8 @@
 - ✅ Ma'lumotni tanlash ⭐ — list vs dict vs set
 - ✅ Big O — kirish ⭐ — nega dict tez, list sekin?
 - ✅ 🛠 Loyiha: Statistik hisoblagich — o'rtacha, mediana, moda
-- ✅ 🛠 Loyiha: Konsol jadval — ma'lumotni jadval ko'rinishida  ← yetgan joyingiz
-- ⬜ Mustahkamlash 🔁 — barcha tuzilmalar bo'yicha mashqlar
+- ✅ 🛠 Loyiha: Konsol jadval — ma'lumotni jadval ko'rinishida
+- ✅ Mustahkamlash 🔁 — barcha tuzilmalar bo'yicha mashqlar  ← yetgan joyingiz
 
 </details>
 
@@ -66,4 +64,4 @@
 - `lms_yozma_topshiriqlari/` — yozma javoblar
 
 ---
-<sub>🤖 Aziz Academy · avtomatik yangilanadi · 2026-08-07 09:22</sub>
+<sub>🤖 Aziz Academy · avtomatik yangilanadi · 2026-08-07 13:50</sub>
