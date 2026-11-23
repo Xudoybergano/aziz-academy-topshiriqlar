@@ -4,16 +4,16 @@
 
 ## 📊 Umumiy progress
 
-`█████████░░░░░░░░░░░` **46%**  (83/179 mavzu)
+`█████████░░░░░░░░░░░` **47%**  (84/179 mavzu)
 
-- ⭐ Jami ball: **133657**
-- 📤 GitHubga yuborilgan topshiriqlar: **1621**
+- ⭐ Jami ball: **133842**
+- 📤 GitHubga yuborilgan topshiriqlar: **1622**
 
 ## 🎯 Qaysi mavzuga yetdingiz
 
-**MODUL 7 — Modullar va Fayllar** → **Fayllar - 2 ⭐ - with va context manager**
+**MODUL 7 — Modullar va Fayllar** → **CSV bilan ishlash - csv moduli, jadval ma'lumotlari**
 
-➡️ Keyingi mavzu: *CSV bilan ishlash - csv moduli, jadval ma'lumotlari*
+➡️ Keyingi mavzu: *JSON bilan ishlash ⭐ - json moduli, saqlash/o'qish*
 
 <details open>
 <summary>Shu moduldagi mavzular</summary>
@@ -26,8 +26,8 @@
 - ✅ datetime moduli - sana va vaqt bilan ishlash
 - ✅ time va benchmark - vaqtni o'lchash, dastur tezligi
 - ✅ Fayllar - 1 ⭐ - open, read, write, rejimlar (r, w, a)
-- ✅ Fayllar - 2 ⭐ - with va context manager  ← yetgan joyingiz
-- ⬜ CSV bilan ishlash - csv moduli, jadval ma'lumotlari
+- ✅ Fayllar - 2 ⭐ - with va context manager
+- ✅ CSV bilan ishlash - csv moduli, jadval ma'lumotlari  ← yetgan joyingiz
 - ⬜ JSON bilan ishlash ⭐ - json moduli, saqlash/o'qish
 - ⬜ 🛠 Loyiha: To-Do / Telefon kitobcha - fayl asosida CRUD
 - ⬜ os va pathlib bilan fayl tizimida yurish
@@ -46,7 +46,7 @@
 | 4 | ✅ Ma'lumot Tuzilmalari | `██████████` 100% | 18/18 |
 | 5 | 🔸 Comprehensions | `████████░░` 80% | 4/5 |
 | 6 | ✅ Funksiyalar | `██████████` 100% | 12/12 |
-| 7 | 🔸 Modullar va Fayllar | `██████░░░░` 60% | 9/15 |
+| 7 | 🔸 Modullar va Fayllar | `███████░░░` 67% | 10/15 |
 | 8 | ⬜ Xatolar, Test va Debug | `░░░░░░░░░░` 0% | 0/11 |
 | 9 | ⬜ OOP (Obyektga Yo'naltirilgan Dasturlash) | `░░░░░░░░░░` 0% | 0/18 |
 | 10 | ⬜ Iterator, Generator, Decorator | `░░░░░░░░░░` 0% | 0/10 |
@@ -63,4 +63,4 @@
 - `lms_yozma_topshiriqlari/` — yozma javoblar
 
 ---
-<sub>🤖 Aziz Academy · avtomatik yangilanadi · 2026-11-23 14:37</sub>
+<sub>🤖 Aziz Academy · avtomatik yangilanadi · 2026-11-23 18:04</sub>
